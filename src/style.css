@@ -35,16 +35,6 @@ h1 {
   font-family: "Libre Franklin", sans-serif;
 }
 
-#currentLocation {
-  background-color: #ea6e4b;
-  border-radius: 30px;
-  border-color: #a53212;
-  color: white;
-  padding: 5px 5px;
-  font-weight: bolder;
-  box-shadow: 5px 5px 10px #92b2cc;
-}
-
 h5 {
   font-size: 30px;
   font-family: "Libre Franklin", sans-serif;
@@ -57,7 +47,7 @@ h6 {
 }
 .weatherglobe {
   display: block;
-
+  margin: 0 auto;
   width: 350px;
   border-radius: 50%;
   box-shadow: 5px 5px 5px lightsteelblue;
@@ -89,7 +79,6 @@ hr {
 .week {
   border: #f4f8fc solid 1px;
   background-color: #fff;
-  margin-top: 20px;
   margin-bottom: 10px;
 }
 img {
